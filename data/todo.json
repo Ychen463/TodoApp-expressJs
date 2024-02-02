@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "id": "u2t1",
+      "title": "Complete Project Proposal",
+      "description": "Draft and submit the project proposal for the new web development project.",
+      "status": "FINISHED",
+      "time": "2023-09-15T09:00:00.000Z"
+    },
+    {
+      "id": "u2t2",
+      "title": "Team Meeting on Project Scope",
+      "description": "Organize a team meeting to discuss the project scope and deliverables.",
+      "status": "NOT_FINISHED",
+      "time": "2023-09-20T11:00:00.000Z"
+    },
+    {
+      "id": "u2t3",
+      "title": "Review Backend API Documentation",
+      "description": "Review the latest API documentation and update the integration plan accordingly.",
+      "status": "FINISHED",
+      "time": "2023-09-22T15:00:00.000Z"
+    },
+    {
+      "id": "u2t4",
+      "title": "Update Project Timeline",
+      "description": "Update the project timeline based on the latest team feedback and send it to stakeholders.",
+      "status": "NOT FINISHED",
+      "time": "2023-09-25T10:00:00.000Z"
+    },
+    {
+      "id": "u2t5",
+      "title": "Finalize Frontend Design Mockups",
+      "description": "Finalize the design mockups for the frontend application and review them with the design team.",
+      "status": "NOT FINISHED",
+      "time": "2023-09-30T14:00:00.000Z"
+    },
+    {
+      "id": "u2t6",
+      "title": "Prepare Deployment Checklist",
+      "description": "Prepare a checklist for the deployment of the new features, including pre-launch and post-launch tasks.",
+      "status": "NOT FINISHED",
+      "time": "2023-10-05T16:00:00.000Z"
+    }
+  ]
+}
